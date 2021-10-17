@@ -129,9 +129,9 @@ def main():
 	else:
 		st.subheader("About")
 		st.success("Built with Streamlit")
-		st.info("RAGHAV CHADHA")
-		st.text("101853034")
-		st.text("raghavchadha9196@gmail.com")
+		st.info("ABHIRATH kAPOOR")
+		st.text("101803047")
+		st.text("akapoor_be18@thapar.edu")
 
 
 
